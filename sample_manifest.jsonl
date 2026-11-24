@@ -1,0 +1,11 @@
+{"record_type": "bom_item", "designator": "U1", "category": "mcu", "value": "STM32U575RIT6", "mpn": "STM32U575RIT6", "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm", "dnp": false}
+{"record_type": "bom_item", "designator": "C1", "category": "capacitor", "value": "100nF", "mpn": "GRM155R71C104KA88D", "footprint": "Capacitor_SMD:C_0402_1005Metric", "dnp": false}
+{"record_type": "bom_item", "designator": "R1", "category": "resistor", "value": "10k", "mpn": "TBD", "footprint": "Resistor_SMD:R_0402_1005Metric", "dnp": false}
+{"record_type": "bom_item", "designator": "C1", "category": "capacitor", "value": "1uF", "mpn": "CL05A105MQ5NNNC", "footprint": "", "dnp": false}
+{"record_type": "gerber_file", "filename": "telemetry_node_revB-F_Cu.gbr"}
+{"record_type": "gerber_file", "filename": "telemetry_node_revB-In1_Cu.gbr"}
+{"record_type": "gerber_file", "filename": "telemetry_node_revB-In2_Cu.gbr"}
+{"record_type": "gerber_file", "filename": "telemetry_node_revB-B_Cu.gbr"}
+{"record_type": "gerber_file", "filename": "telemetry_node_revB-Edge_Cuts.gbr"}
+{"record_type": "gerber_file", "filename": "telemetry_node_revB-Drill.drl"}
+
